@@ -1,0 +1,9 @@
+{
+  "name": "quaftan",
+  "version": "0.0.1",
+  "description": "This layer of UI utils for quasar vue",
+  "main": "index.js",
+  "repository": "https://github.com/viveks1427/quaftan.git",
+  "license": "MIT",
+  "private": false
+}
